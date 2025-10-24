@@ -38,8 +38,6 @@ html, body {
     
 }
 
-
-
 .nav_bar::before, .nav_bar::after {
     content: "";
     position: absolute;
